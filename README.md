@@ -1,0 +1,1 @@
+Customizable alarm clock system with integrated medication dispenser and LDR sensitive night light. The projct uses parallac propeller whichh is coded using C and utilizes 4 cogs to perform the tasks parallelly.
